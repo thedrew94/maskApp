@@ -1,3 +1,4 @@
+(Java Script)
 Here's a step-by-step breakdown of what the code is doing:
 
 The prompt() function is used to ask the user to enter their password, and the value entered by the user is stored in a variable called userInput.
